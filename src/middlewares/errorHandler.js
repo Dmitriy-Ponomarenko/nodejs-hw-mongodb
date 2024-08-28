@@ -1,4 +1,4 @@
-// src/middlewares/errorHandler.js;
+// src/middlewares/errorHandler.js
 
 import { HttpError } from 'http-errors';
 
