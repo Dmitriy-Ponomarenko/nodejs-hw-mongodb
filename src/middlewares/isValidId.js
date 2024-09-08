@@ -1,4 +1,4 @@
-// src/middlewares/isValidId
+// src/middlewares/isValidId.js
 
 import { isValidObjectId } from 'mongoose';
 import createHttpError from 'http-errors';

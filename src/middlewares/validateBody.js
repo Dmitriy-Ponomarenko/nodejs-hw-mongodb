@@ -1,4 +1,4 @@
-// src/middlewares/validateBody
+// src/middlewares/validateBody.js
 
 import createHttpError from 'http-errors';
 
